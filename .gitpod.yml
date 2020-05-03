@@ -1,0 +1,4 @@
+tasks:
+  - init: pip install pyrebase4, pip install matplotlib, pip install pandas
+    command: echo "Replace me with something that should run on every start, or just
+      remove me entirely."
