@@ -1,3 +1,3 @@
 tasks:
-  - init: pip install pyrebase4 matplotlib pandas
+  - init: /home/gitpod/.pyenv/versions/3.8.2/bin/python3 -m pip install --upgrade pip
     command: pip install pyrebase4 matplotlib pandas
