@@ -59,6 +59,7 @@ Basic Artefact Features
 3. The user’s performance is analysed and compared to an appropriate dataset, and presented in a suitable fashion, such as tabular or graphical form.
 
 Advanced Artefact Features
+
 4. An interactive system that displays multiple users’ data from Firebase, in a user-friendly and informative manner. The database is updated with each user interaction.
 
 5. The artefact captures more than one type of performance measurement (such as reaction speed and accuracy of response; reaction speed and memory accuracy).
