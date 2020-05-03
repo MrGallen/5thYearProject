@@ -1,7 +1,6 @@
-#You need to install in command line both imports below
-#pip install pyrebase4
+#You need to install in command line any external imports below in command prompt
+#Some imports like time and random dont need installed
 import pyrebase
-#pip install matplotlib
 from matplotlib import pyplot as plt
 
 #config = {
@@ -16,5 +15,4 @@ from matplotlib import pyplot as plt
 # Get a reference to the database service
 #db = firebase.database()
 
-#Enter your Python Code For Program - Dont forget to pip install the imports you need
-#Some imports like time and random dont need installed
+#Enter your Python Code For Program
