@@ -1,3 +1,5 @@
 tasks:
+  - init: pip3 install -r requirements.txt
   - init: gp open main.py
+    command: python3 main.py
     command: pip install pyrebase4 matplotlib pandas
