@@ -1,0 +1,5 @@
+pandas
+numpy
+matplotlib
+pyrebase4
+python-firebase
