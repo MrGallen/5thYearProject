@@ -1,4 +1,4 @@
 tasks:
-  - init: /home/gitpod/.pyenv/versions/3.8.2/bin/python3 /workspace/5thYearProject/main.py
+  - init: open main.py
   - init: pip install pyrebase4 matplotlib pandas
     command: ""
