@@ -1,4 +1,4 @@
 tasks:
-  - init: open main.py
+  - init: gp open main.py
   - init: pip install pyrebase4 matplotlib pandas
-    command: ""
+    command: pip install pyrebase4 matplotlib pandas
