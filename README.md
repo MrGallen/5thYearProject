@@ -29,7 +29,9 @@ Below are some examples of reaction time tests, memory tests, and various other 
 
 • https://www.justpark.com/creative/reaction-time-test/
 
-• https://humanbenchmark.com/tests/memory Reaction time tests are used as part of sports science.
+• https://humanbenchmark.com/tests/memory 
+
+Reaction time tests are used as part of sports science.
 
 • https://www.youtube.com/watch?v=aveegpbB3Lk
 
